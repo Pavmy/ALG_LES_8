@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALG_LES_8", "ALG_LES_8\ALG_LES_8.csproj", "{FEE25554-EDBE-44B9-B7DF-8512C5E4F663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE25554-EDBE-44B9-B7DF-8512C5E4F663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE25554-EDBE-44B9-B7DF-8512C5E4F663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE25554-EDBE-44B9-B7DF-8512C5E4F663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE25554-EDBE-44B9-B7DF-8512C5E4F663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88037B51-CC98-491B-8597-D442D1D46A7E}
+	EndGlobalSection
+EndGlobal
